@@ -1,0 +1,17 @@
+header,
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 45px;
+    padding: 25px;
+}
+
+li {
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+hr {
+    border: solid 1px black;
+}
